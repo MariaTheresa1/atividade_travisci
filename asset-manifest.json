@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atividade_travisci/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/atividade_travisci/static/js/main.27d30e24.chunk.js",
+    "main.js.map": "/atividade_travisci/static/js/main.27d30e24.chunk.js.map",
+    "runtime-main.js": "/atividade_travisci/static/js/runtime-main.72f93f40.js",
+    "runtime-main.js.map": "/atividade_travisci/static/js/runtime-main.72f93f40.js.map",
+    "static/js/2.0140d913.chunk.js": "/atividade_travisci/static/js/2.0140d913.chunk.js",
+    "static/js/2.0140d913.chunk.js.map": "/atividade_travisci/static/js/2.0140d913.chunk.js.map",
+    "static/js/3.0d8838ac.chunk.js": "/atividade_travisci/static/js/3.0d8838ac.chunk.js",
+    "static/js/3.0d8838ac.chunk.js.map": "/atividade_travisci/static/js/3.0d8838ac.chunk.js.map",
+    "index.html": "/atividade_travisci/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/atividade_travisci/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0140d913.chunk.js.LICENSE.txt": "/atividade_travisci/static/js/2.0140d913.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/atividade_travisci/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72f93f40.js",
+    "static/js/2.0140d913.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.27d30e24.chunk.js"
+  ]
+}
